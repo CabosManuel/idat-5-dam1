@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppIdatgram</string>
+    <string name="tvtitulo">Autenticación</string>
+    <string name="tvusuario">Ingrese su Usuario</string>
+    <string name="tvcontraseña">Ingrese su contraeña</string>
+    <string name="valbtnlogin">Login</string>
+    <string name="valopconfig">Configuración</string>
+    <string name="valopcamara">Cámara</string>
+</resources>
