@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrincipal">#66BB6A</color>
+    <color name="colorCompartir">#FFEE58</color>
+    <color name="colorFoto">#FFA726</color>
+    <color name="colorHerramientas">#FF7043</color>
+</resources>
