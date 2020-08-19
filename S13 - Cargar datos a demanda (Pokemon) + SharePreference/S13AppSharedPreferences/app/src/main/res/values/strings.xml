@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S13AppSharedPreferences</string>
+    <string name="valtitulo">AUTENTICACIÓN SHARED PREFERENCES</string>
+    <string name="valetuser">Ingrese un usuario</string>
+    <string name="valtvpass">Ingrese su contraseña</string>
+    <string name="valbtnlogin">Login</string>
+    <string name="valbtnlogout">Cerrar Sesión</string>
+</resources>

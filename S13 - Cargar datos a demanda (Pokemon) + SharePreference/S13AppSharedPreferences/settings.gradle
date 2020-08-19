@@ -1,0 +1,2 @@
+rootProject.name='S13AppSharedPreferences'
+include ':app'
