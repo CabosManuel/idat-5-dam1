@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">S14AppSQLLiteRoom</string>
+    <string name="valettitulo">Ingrese un título</string>
+    <string name="valetcontenido">Ingrese un contenido</string>
+    <string name="valrbtnrojo">Rojo</string>
+    <string name="valrbtnverde">Verde</string>
+    <string name="valrbtnazul">Azul</string>
+    <string name="valseleccionecolor">Seleccione un color:</string>
+    <string name="valswimportante">¿Agregar a favoritos?</string>
+</resources>
