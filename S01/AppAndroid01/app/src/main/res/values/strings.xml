@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppAndroid01</string>
+    <string name="valtvtitulo">CÁLCULO DE IMC</string>
+    <string name="valtvtalla">Ingrese su talla</string>
+    <string name="valtvpeso">Ingrese su peso</string>
+    <string name="valbtncalcular">Calcular</string>
+    <string name="valbtnmc">CÁLCULO DE IMC</string>
+    <string name="valbtnpar">CALCULAR PAR O IMPAR</string>
+</resources>
