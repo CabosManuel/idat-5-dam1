@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCabosManuel</string>
+    <string name="val_et_nombre">Ingresar nombre</string>
+    <string name="val_et_aforo">Ingresar aforo máximo</string>
+    <string name="val_sw_lavado">¿Incluye lavado?</string>
+    <string name="val_rbtn_reservado">Reservado</string>
+    <string name="val_rbtn_lleno">Lleno</string>
+    <string name="val_rbtn_vacio">Vacío</string>
+    <string name="val_tv_seleccionar">Seleccione un estado del estacionamiento:</string>
+    <string name="val_tv_t_cod">Código:</string>
+    <string name="val_tv_t_aforo">Aforo máximo:</string>
+    <string name="val_tv_t_estado">Estado:</string>
+</resources>
