@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S15AppAutenticacionGoogle</string>
+    <string name="valbtnlogout">Cerrar sesión</string>
+</resources>

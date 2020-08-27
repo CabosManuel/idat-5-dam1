@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148328542524",
+    "firebase_url": "https://appautenticacion-eb371.firebaseio.com",
+    "project_id": "appautenticacion-eb371",
+    "storage_bucket": "appautenticacion-eb371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148328542524:android:3e509a9a7975403675ee39",
+        "android_client_info": {
+          "package_name": "idat.edu.pe.s15appautenticaciongoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148328542524-8gl1jnc078hbf79ie1vrnsdr8asoirct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idat.edu.pe.s15appautenticaciongoogle",
+            "certificate_hash": "f6f365675ed4472e9b03b4d00dec613d8adbd6a0"
+          }
+        },
+        {
+          "client_id": "148328542524-uaago7jh9mrj87ssjfjgj6dnq8r31p2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub5fdDMgCA7i5t-GiQNuyyMsREqtWYsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148328542524-uaago7jh9mrj87ssjfjgj6dnq8r31p2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
