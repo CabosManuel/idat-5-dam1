@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppManuelCabos</string>
+    <string name="valtvlogin">Login</string>
+    <string name="valetcodpaciente">Ingrese su código</string>
+    <string name="valetcontraseña">Ingrese su contraseña</string>
+    <string name="valbtningresar">Ingresar</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valnav_primero">Primer Fragment</string>
+    <string name="valnav_segundo">Segundo Fragment</string>
+    <string name="valtvlbl1">Album Id:</string>
+    <string name="tvlbl2" >Id:</string>
+</resources>
