@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppRadioCheck</string>
+    <string name="valbtncheck">Ir al ejemplo Check</string>
+    <string name="valbtnradio">Ir al ejemplo RadioButton</string>
+    <string name="valbtnlist">Ir al ejemplo ListView</string>
+    <string name="valcheckdeporte">Deporte</string>
+    <string name="valcheckvideojuegos">Videojuegos</string>
+    <string name="valrbtnmujer">Mujer</string>
+    <string name="valrbthombre">Hombre</string>
+    <string name="valrbtotro">Otro</string>
+</resources>
