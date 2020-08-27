@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppEC2ManuelCabos</string>
+    <string name="valbtnregistro">REGISTRO</string>
+    <string name="valbtnformulario">FORMULARIO</string>
+    <string name="valbtnlistado">LISTADO</string>
+    <string name="valtvinformacion">INFORMACIÓN</string>
+    <string name="valdni">DNI</string>
+    <string name="valnombre">Nombre</string>
+    <string name="valapellido">Apellido</string>
+    <string name="valemail">Email</string>
+    <string name="valpassword">Password</string>
+    <string name="valsexo">Sexo</string>
+    <string name="valhobbies">Hobbies</string>
+    <string name="valbtnacceder">Acceder</string>
+    <string name="valtvcuestionario">CUESTIONARIO COVID-19</string>
+    <string name="valp1">1. Marca tus sintomas</string>
+    <string name="valp2">2. ¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="valrsi">SÍ</string>
+    <string name="valrno">NO</string>
+    <string name="valp3">3. ¿Vives solo en casa?</string>
+    <string name="valp4">4. ¿Vives con un adulto mayor en casa?</string>
+    <string name="valp5">5. ¿Cuentas con los siguientes servicios en casa?</string>
+    <string name="valbtnresolver">Resolver</string>
+</resources>

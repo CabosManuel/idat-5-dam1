@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroOutputActivity">
+
+    <TextView
+        android:id="@+id/tvinformacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/valtvinformacion"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvtdni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/valdni"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvinformacion" />
+
+    <TextView
+        android:id="@+id/tvdni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtdni"
+        app:layout_constraintTop_toBottomOf="@+id/tvinformacion" />
+
+    <TextView
+        android:id="@+id/tvtnombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/valnombre"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtdni" />
+
+    <TextView
+        android:id="@+id/tvnombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtnombre"
+        app:layout_constraintTop_toBottomOf="@+id/tvdni" />
+
+    <TextView
+        android:id="@+id/tvtapellido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/valapellido"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtnombre" />
+
+    <TextView
+        android:id="@+id/tvapellido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtapellido"
+        app:layout_constraintTop_toBottomOf="@+id/tvnombre" />
+
+    <TextView
+        android:id="@+id/tvtemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/valemail"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtapellido" />
+
+    <TextView
+        android:id="@+id/tvemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtemail"
+        app:layout_constraintTop_toBottomOf="@+id/tvapellido" />
+
+    <TextView
+        android:id="@+id/tvtpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/valpassword"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtemail" />
+
+    <TextView
+        android:id="@+id/tvpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtpassword"
+        app:layout_constraintTop_toBottomOf="@+id/tvemail" />
+
+    <TextView
+        android:id="@+id/tvtsexo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/valsexo"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtpassword" />
+
+    <TextView
+        android:id="@+id/tvsexo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvtsexo"
+        app:layout_constraintTop_toBottomOf="@+id/tvpassword" />
+
+    <TextView
+        android:id="@+id/tvthobbies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/valhobbies"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvtsexo" />
+
+    <TextView
+        android:id="@+id/tvhobbies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toEndOf="@+id/tvthobbies"
+        app:layout_constraintTop_toBottomOf="@+id/tvsexo"
+        android:textSize="18sp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

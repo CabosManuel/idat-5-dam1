@@ -1,0 +1,2 @@
+rootProject.name='AppEC2ManuelCabos'
+include ':app'
