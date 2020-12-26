@@ -28,12 +28,22 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
+        
+        // Todo es switch es para los distintos botones que tengas
+        
         switch (v.getId()){
             case R.id.btnchek:
+                
+                // Acá iría el "enabled = true"
+                
+                
+                // Esto ignoralo en todos, son otras funciones ---------------------------------------------
                 Toast.makeText(getApplicationContext(),"Hizo click en btn Check",Toast.LENGTH_SHORT).show();
                 Intent inttcheck = new Intent(MainActivity.this, CheckActivity.class);
                 inttcheck.putExtra("titulocheck","Ejemplo CHECKBOX");
                 startActivity(inttcheck);
+                // -----------------------------------------------------------------------------------------
+                
                 break;
             case R.id.btnradio:
                 Toast.makeText(getApplicationContext(),"Hizo click en btn RadioButton",Toast.LENGTH_SHORT).show();
